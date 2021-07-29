@@ -7,7 +7,7 @@ This tools check in windows10-64bit.
 
 
 ## Installation: 
-For use this script need this module: \
+For use this script need this module:(python3) \
 selenium \
 colorama \
 and selenium driver(firefox).I add to this repositories firefox-win64(geckodriver). 
