@@ -10,14 +10,14 @@ This tools check in windows10-64bit.
 For use this script need this module: \
 selenium \
 colorama \
-and selenium driver(firefox).I add to this repositories firefox-win64(geckodriver). \
+and selenium driver(firefox).I add to this repositories firefox-win64(geckodriver). 
 
 ## Usage: 
 1- open nordclient and click login. \
 2-open new url for login.copy it. \
 3-open nordvpnsoup and enter url. \
 4-enter nord account file. \
-5-wait to first correct account. \
+5-wait to first correct account. 
 
 ## note: 
 1-login page should be like this: 
