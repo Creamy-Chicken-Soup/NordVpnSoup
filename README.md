@@ -1,6 +1,7 @@
 # NordVpnSoup
 A simple tools for check user/password/date in NordVpn \
-This tools check in windows10-64bit. \
+This tools check in windows10-64bit. 
+
 ![alt text](https://github.com/Creamy-Chicken-Soup/NordVpnSoup/blob/main/image/ScreenShot.PNG)
 
 
@@ -19,7 +20,8 @@ and selenium driver(firefox).I add to this repositories firefox-win64(geckodrive
 5-wait to first correct account. \
 
 ## note: 
-1-login page should be like this: \
+1-login page should be like this: 
+
 ![alt text](https://github.com/Creamy-Chicken-Soup/NordVpnSoup/blob/main/image/nordvpnlogin.PNG)
 
 2-firefox is top and no any action until program finish.
